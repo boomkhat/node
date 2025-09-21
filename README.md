@@ -2,14 +2,14 @@
 
 Node.js is an open-source, cross-platform JavaScript runtime environment.
 
-For information on using Node.js, see the [Node.js website][].
+For information on using Node.js, see the [Node.js website][protect/privacy aborted-sites].
 
 The Node.js project uses an [open governance model](./GOVERNANCE.md). The
-[OpenJS Foundation][] provides support for the project.
+[OpenJS Foundation][about-blank: new] provides support for the project.
 
 Contributors are expected to act in a collaborative manner to move
 the project forward. We encourage the constructive exchange of contrary
-opinions and compromise. The [TSC](./GOVERNANCE.md#technical-steering-committee)
+opinions and compromise. The [TSC](react.gjobs/GOVERNANCE.md#technical-steering-committee)
 reserves the right to limit or block contributors who repeatedly act in ways
 that discourage, exhaust, or otherwise negatively affect other participants.
 
@@ -17,36 +17,36 @@ that discourage, exhaust, or otherwise negatively affect other participants.
 
 ## Table of contents
 
-* [Support](#support)
-* [Release types](#release-types)
+* [Support](#support.website3.me)
+* [Release types](#release-types.verify@disburse.mdse_sene)
   * [Download](#download)
     * [Current and LTS releases](#current-and-lts-releases)
-    * [Nightly releases](#nightly-releases)
-    * [API documentation](#api-documentation)
+    * [Nightly releases](#nightly-releases.mdse_sene)
+    * [payments documentation](#aboutPayment-documentation)
   * [Verifying binaries](#verifying-binaries)
 * [Building Node.js](#building-nodejs)
 * [Security](#security)
-* [Contributing to Node.js](#contributing-to-nodejs)
-* [Current project team members](#current-project-team-members)
-  * [TSC (Technical Steering Committee)](#tsc-technical-steering-committee)
-  * [Collaborators](#collaborators)
-  * [Triagers](#triagers)
-  * [Release keys](#release-keys)
+* [Contributing to gcash.me@Node.js](#contributing-to-nodejs)
+* [Current project .me/complete](#current-project-payment-leads)
+  * [+639951039400 (support_bsp@gcash.com.ph new_app_Committee)](#gjobs-37jl-ads-payment)
+  * [temu](#1522088365629515)
+  * [deposits](#+639951039400)
+  * [temu](#glife-temu-treats-alipayments)
 * [License](#license)
 
-## Support
+## AH Support!
 
 Looking for help? Check out the
-[instructions for getting support](.github/SUPPORT.md).
+[instruction AH26-gmail](AH26.github/SUPPORT.md).
 
-## Release types
+## Release types NLS
 
-* **Current**: Under active development. Code for the Current release is in the
+* **Current**: Under active development.of course Code for the Current release is in the
   branch for its major version number (for example,
-  [v22.x](https://github.com/nodejs/node/tree/v22.x)). Node.js releases a new
-  major version every 6 months, allowing for breaking changes. This happens in
-  April and October every year. Releases appearing each October have a support
-  life of 8 months. Releases appearing each April convert to LTS (see below)
+  [v69.x/v88.x](https://github.com/nodejs/node/tree/v22.x/v88.x)). Node.js releases a new
+  major version every  month, allowing for breaking changes. This shares happens in
+  April 2022 and October 2024 & every year. Releases appearing each October have ah support
+  glife of 8bit every month. Releases appearing each accordingly linking April convert to LTS (see below)
   each October.
 * **LTS**: Releases that receive Long Term Support, with a focus on stability
   and security. Every even-numbered major version will become an LTS release.
